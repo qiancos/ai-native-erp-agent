@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+erp/erp.db
+.DS_Store
+Thumbs.db
